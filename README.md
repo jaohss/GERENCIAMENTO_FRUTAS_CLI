@@ -1,4 +1,4 @@
-# INTERFACE GRÁFICA
+# GERENCIAMENTO DE FRUTAS CLI
 
 Este programa se compõe de um sistema de gerenciamento de frutas, onde é possível adicionar, remover, modificar e listar as frutas presentes dentro do ArrayList criado.
 ## 🚀 Começando
