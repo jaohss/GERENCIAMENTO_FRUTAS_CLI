@@ -47,4 +47,4 @@ Ferramentas utilizadas e bibliotecas
 ## Terminal do gerenciamento de tela CLI
 * **Terminal do CLI**
 
-![Gerenciamento de frutas CLI ](terminal/terminal.PNG)
+![Gerenciamento de frutas CLI ](terminal/terminal.png)
